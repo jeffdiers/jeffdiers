@@ -1,13 +1,12 @@
-Hi 👋 My name is Jeff Diers
+Hi, My name is Jeff Diers
 ===========================
 
 Software Engineer
 -----------------
 
 * 🌍  I'm based in New York City
-* 🖥️  See my portfolio at [jeffdiers.com](http://jeffdiers.com)
+* 🖥️  See my site at [jeffdiers.com](http://jeffdiers.com)
 * ✉️  You can contact me at [jeff.diers@gmail.com](mailto:jeff.diers@gmail.com)
-* 🚀  I'm currently working on [CRWN clothing](http://master--magical-sunflower-2f0d00.netlify.app/)
 * ⚡  I am looking for a new role
 
 ### Skills
