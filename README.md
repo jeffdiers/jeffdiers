@@ -7,7 +7,6 @@ Software Engineer
 * 🌍  I'm based in New York City
 * 🖥️  See my site at [jeffdiers.com](http://jeffdiers.com)
 * ✉️  You can contact me at [jeff.diers@gmail.com](mailto:jeff.diers@gmail.com)
-* ⚡  I am looking for a new role
 
 ### Socials
 
